@@ -13,7 +13,7 @@ O combate é feito em ticks onde cada ação demora um número de ticks para aco
 
 ## Turnos
 
-Os turnos seguem uma linha temporal controlada por ticks onde cada posição e ação tem um tempo específico de ticks para ser realizada, existem algumas habilidades e poses especiais que podem manipular os ticks ou até cancelar ações.
+Os turnos seguem uma linha temporal controlada por ticks onde cada posição e ação tem um tempo específico de ticks para ser realizada, existem algumas habilidades e poses especiais que podem manipular os ticks ou até cancelar ações. O combate só termina quando um dos oponentes fugir ou morrer.
 
 ![[Pasted image 20231101161306.png]]
 
@@ -36,4 +36,6 @@ Depois de escolher a posição do personagem o jogador deve jogar uma ação, es
 Este é um exemplo de um soco de demora 5 ticks e da 2 de dano + a diferença entre o valor do ataque e o valor da defesa dos personagens na ficha
 
 
-asdfasdf
+## Defesa
+
+Cartas de defesa são jogadas junto ao 

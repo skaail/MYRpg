@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c898eff9fe36d331",
+        "id": "658308a14e625e27",
         "type": "tabs",
         "children": [
           {
-            "id": "233075a9b70ec433",
+            "id": "5c2dab0f8f7aa4a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,8 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "233075a9b70ec433",
+  "active": "5c2dab0f8f7aa4a3",
   "lastOpenFiles": [
+    "Classes/Magos.md",
+    "Classes/Guerreiros.md",
+    "2023-11-01.md",
     "Pasted image 20231101161306.png",
     "Pasted image 20231101161243.png",
     "Pasted image 20231101143947.png",
@@ -165,11 +168,9 @@
     "Livros/Ervas/Introdução a Carburação.md",
     "Tribo dos Herbalistas/Estrutura/Personagens.md",
     "Tribo dos Herbalistas/Estrutura/Livros.md",
-    "Classes/Guerreiros.md",
     "Pasted image 20230322011718.png",
     "Pasted image 20231101130208.png",
     "Pasted image 20231101135210.png",
-    "Classes/Magos.md",
     "Livros/Magias/Orbes e runas.md",
     "Livros/Magias/Runas Básicas.md",
     "Sistema.md",
