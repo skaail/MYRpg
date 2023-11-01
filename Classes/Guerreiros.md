@@ -35,3 +35,5 @@ Depois de escolher a posição do personagem o jogador deve jogar uma ação, es
 
 Este é um exemplo de um soco de demora 5 ticks e da 2 de dano + a diferença entre o valor do ataque e o valor da defesa dos personagens na ficha
 
+
+asdfasdf
