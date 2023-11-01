@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "8fdd651624757d31",
+    "type": "split",
+    "children": [
+      {
+        "id": "c898eff9fe36d331",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "233075a9b70ec433",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Guerreiros.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d39f4227d20835e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4f42199f2d9966e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bddf919c11e5dde5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5aea5a009af60fb6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aca43373a45443a4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "87b785699a2c3f6f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df451d6c51ba0424",
+    "type": "split",
+    "children": [
+      {
+        "id": "c10f9773439d9bb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd4f35b5981e9a1e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Classes/Guerreiros.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a5d25f99b1638d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Classes/Guerreiros.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18ebcefb2a321c2c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a98887960b24badc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Classes/Guerreiros.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "233075a9b70ec433",
+  "lastOpenFiles": [
+    "Pasted image 20231101161306.png",
+    "Pasted image 20231101161243.png",
+    "Pasted image 20231101143947.png",
+    "Livros/Ervas/Efeitos na fumaça.md",
+    "Livros/Ervas/Ervas e suas propriedades.md",
+    "Livros/Ervas/Introdução a Carburação.md",
+    "Tribo dos Herbalistas/Estrutura/Personagens.md",
+    "Tribo dos Herbalistas/Estrutura/Livros.md",
+    "Classes/Guerreiros.md",
+    "Pasted image 20230322011718.png",
+    "Pasted image 20231101130208.png",
+    "Pasted image 20231101135210.png",
+    "Classes/Magos.md",
+    "Livros/Magias/Orbes e runas.md",
+    "Livros/Magias/Runas Básicas.md",
+    "Sistema.md",
+    "Lore.md",
+    "Bisklarit Mapa.jpg",
+    "Tribos/As 11 Tribos.md",
+    "Locais/Cachoeiras de Niskin.md",
+    "Locais/Cachoeiras de Niskin.png",
+    "Classes",
+    "Vilas/Vila dos Guerreiros.md",
+    "Bisklarit.md",
+    "Tribo dos Guerreiros/Estrutura/Personagens.md",
+    "Tribo dos Guerreiros/Estrutura/Locais.md",
+    "Tribo dos Guerreiros/Estrutura/Instituições.md",
+    "Livros/Magias",
+    "Tribos/Herbalistas.md",
+    "Tribo dos Herbalistas/Personagens/Kerethin.md",
+    "Tribo dos Herbalistas/Estrutura/Locais.md",
+    "Livros/Ervas",
+    "Livros",
+    "Tribo dos Herbalistas/Personagens/Linthian.md",
+    "Tribo dos Herbalistas/Personagens/Lorethal.md",
+    "Tribos/Guerreiros.md",
+    "Tribos/Governantes.md",
+    "Tribo dos Guerreiros/Estrutura",
+    "Tribo dos Herbalistas/Estrutura/Untitled",
+    "Tribo dos Herbalistas/Estrutura",
+    "Tribo dos Herbalistas/Personagens",
+    "Tribo dos Herbalistas/Locais",
+    "Tribo dos Herbalistas",
+    "Untitled.canvas",
+    "New map.jpg"
+  ]
+}
