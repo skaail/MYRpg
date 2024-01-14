@@ -11,8 +11,12 @@
             "id": "23c519a64771df0d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Magos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Classes/Magos.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Classes/Magos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Classes/Magos.md"
+              }
             }
           }
         ],
@@ -149,6 +157,12 @@
   },
   "active": "23c519a64771df0d",
   "lastOpenFiles": [
+    "Livros/Magias/Runas Básicas.md",
+    "Jogadores/Perez.md",
+    "Jogadores/Rossi.md",
+    "Jogadores/Adal.md",
+    "Livros/Magias/Orbes e runas.md",
+    "Jogadores",
     "Livros/Ervas/Efeitos na fumaça.md",
     "Livros/Monges/Formas e suas interações.md",
     "Livros/Ervas/Introdução a Carburação.md",
@@ -186,15 +200,9 @@
     "MYRpg/Tribo dos Herbalistas/Estrutura/Locais.md",
     "MYRpg/Tribo dos Herbalistas/Estrutura/Livros.md",
     "MYRpg/Tribo dos Herbalistas/Locais/Torre de rituais.md",
-    "MYRpg/Tribo dos Herbalistas/Locais/Torre da cura.md",
-    "MYRpg/Tribo dos Herbalistas/Locais/Torre da confusão.md",
     "MYRpg/Tribo dos Herbalistas/Personagens",
     "MYRpg/Tribo dos Herbalistas/Estrutura",
     "MYRpg/Tribo dos Herbalistas/Locais",
-    "MYRpg/Tribo dos Herbalistas",
-    "MYRpg/Tribo dos Guerreiros/Personagens/Sir Heriklen.md",
-    "MYRpg/Tribo dos Guerreiros/Estrutura/Personagens.md",
-    "MYRpg/Tribo dos Guerreiros/Instituições/Concelho da Guerra.md",
     "Untitled.canvas"
   ]
 }
