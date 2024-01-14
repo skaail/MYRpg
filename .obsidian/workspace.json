@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monges/Sistema.md",
+                "file": "Livros/Monges/Formas e suas interações.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "731fe96098f5ecdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Livros/Ervas/Efeitos na fumaça.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monges/Sistema.md",
+                "file": "Livros/Monges/Formas e suas interações.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monges/Sistema.md",
+                "file": "Livros/Monges/Formas e suas interações.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monges/Sistema.md"
+                "file": "Livros/Monges/Formas e suas interações.md"
               }
             }
           }
@@ -157,6 +169,13 @@
   },
   "active": "6a9ba7d9dd17138f",
   "lastOpenFiles": [
+    "Livros/Ervas/Efeitos na fumaça.md",
+    "Livros/Monges/Formas e suas interações.md",
+    "Livros/Ervas/Introdução a Carburação.md",
+    "Monges/Sistema.md",
+    "Livros/Monges",
+    "Livros/Untitled.md",
+    "Monges/Livros/Formas e interações.md",
     "Bisklarit.md",
     "imagens/Pasted image 20231101161243.png",
     "imagens/Pasted image 20231101161306 1.png",
@@ -166,7 +185,6 @@
     "imagens/Pasted image 20231101135210.png",
     "imagens/Pasted image 20230322011718 1.png",
     "MYRpg/2024-01-14.md",
-    "Monges/Sistema.md",
     "MYRpg/Monges/Sistema.md",
     "MYRpg/Monges/Livros",
     "MYRpg/Monges",
@@ -197,12 +215,6 @@
     "MYRpg/Tribo dos Guerreiros/Personagens/Sir Heriklen.md",
     "MYRpg/Tribo dos Guerreiros/Estrutura/Personagens.md",
     "MYRpg/Tribo dos Guerreiros/Instituições/Concelho da Guerra.md",
-    "MYRpg/Tribo dos Guerreiros/Estrutura/Locais.md",
-    "MYRpg/Tribo dos Guerreiros/Estrutura/Instituições.md",
-    "MYRpg/Tribo dos Guerreiros/Personagens",
-    "MYRpg/Sistema.md",
-    "MYRpg/Lore.md",
-    "MYRpg/Locais/Cachoeiras de Niskin.md",
     "Untitled.canvas"
   ]
 }

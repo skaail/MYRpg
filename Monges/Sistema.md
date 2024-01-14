@@ -45,3 +45,33 @@ Durante um descanso longo um jogador pode colocar quantos pontos quiser em qualq
 #### Meditação
 
 Ao meditar em uma forma o jogador pode não somente colocar quantos pontos quiser na árvore desta forma mas também reorganizar os pontos já colocados. Os pontos que forem comprados são automaticamente ativados no jogador, porém os pontos reorganizados só começam a valer no momento que ele fizer ao menos um descanso curto, que pode ser feito na maioria das vezes logo após a meditação.
+
+
+
+
+
+### Nodos
+
+Existem 3 tipos de nodos em cada árvore de habilidade:
+
+#### Aprimoramento
+
+Um nodo de aprimoramento é responsável por aumentar a capacidade dos seus golpes, coisas como dano do ataque, peso da defesa e custo do cansaço são alterados por estes tipos de nodos em sua árvore.
+
+#### Habilidade
+
+Um nodo de habilidade é responsável por alterar, aumentar ou trocar as habilidades de um golpe ou forma.
+
+#### Fusão
+
+Um nodo de fusão é responsável por comunicar formas entre si, criando facilitadores de trocas de forma, compras de carta e até mesmo habilidades conjuntas entre formas distintas.
+
+
+
+
+
+## Ascenção
+
+A Ascenção é o nível mais alto que um monge não puro pode chegar, após chegar ao nível mais alto de todas as suas formas o jogador tem a opção de Ascender, isso faz com que ele perca todos os bônus de sua árvore atual e tenha que escolher entre suas formas uma principal, a partir deste momento ele é visto como um monge puro e todas suas formas se conectam com perfeição para montar o lutador mais completo que ele consegue ser.
+
+Durante a Ascenção um monge não perde somente seus pontos e sim algo de muita importância para ele, isso fica sob escolha do mestre, fazendo assim o final de seu ciclo de desapego para se tornar um ser iluminado, ele recebe bônus em seus atributos.
