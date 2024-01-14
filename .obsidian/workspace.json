@@ -11,9 +11,11 @@
             "id": "6a9ba7d9dd17138f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "imagens/Pasted image 20231101161306 1.png"
+                "file": "Monges/Sistema.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "imagens/Pasted image 20231101161306 1.png",
+                "file": "Monges/Sistema.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "imagens/Pasted image 20231101161306 1.png",
+                "file": "Monges/Sistema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "imagens/Pasted image 20231101161306 1.png"
+                "file": "Monges/Sistema.md"
               }
             }
           }
@@ -153,8 +155,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bddf919c11e5dde5",
+  "active": "6a9ba7d9dd17138f",
   "lastOpenFiles": [
+    "Bisklarit.md",
+    "imagens/Pasted image 20231101161243.png",
+    "imagens/Pasted image 20231101161306 1.png",
+    "imagens/Pasted image 20231101161306.png",
+    "imagens/Pasted image 20231101161243 1.png",
+    "imagens/Pasted image 20231101143947 1.png",
+    "imagens/Pasted image 20231101135210.png",
+    "imagens/Pasted image 20230322011718 1.png",
     "MYRpg/2024-01-14.md",
     "Monges/Sistema.md",
     "MYRpg/Monges/Sistema.md",
@@ -163,8 +173,6 @@
     "MYRpg/imagens/Pasted image 20231101161306.png",
     "MYRpg/imagens/Pasted image 20231101143947.png",
     "MYRpg/imagens/Pasted image 20231101161243.png",
-    "MYRpg/imagens/Pasted image 20231101135210.png",
-    "MYRpg/imagens/Pasted image 20230322011718.png",
     "MYRpg/imagens",
     "MYRpg/Vilas/Vila dos Guerreiros.md",
     "MYRpg/Vilas",
@@ -193,14 +201,8 @@
     "MYRpg/Tribo dos Guerreiros/Estrutura/Instituições.md",
     "MYRpg/Tribo dos Guerreiros/Personagens",
     "MYRpg/Sistema.md",
-    "MYRpg/Pasted image 20231101161306.png",
-    "MYRpg/Pasted image 20231101161243.png",
-    "MYRpg/Pasted image 20231101143947.png",
-    "MYRpg/Pasted image 20231101135210.png",
-    "MYRpg/Pasted image 20230322011718.png",
     "MYRpg/Lore.md",
     "MYRpg/Locais/Cachoeiras de Niskin.md",
-    "MYRpg/Livros/Magias/Runas Básicas.md",
     "Untitled.canvas"
   ]
 }
