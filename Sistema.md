@@ -64,6 +64,7 @@ Ideia de guardar runas para usar depois, livro raro falando sobre uma runa de es
 
 
 **Combate:**
+#combate
 
 Através de livros e treinamentos de artes marciais o jogador aprende formas, golpes e posições que são usadas na batalha como se fossem um pedra papel e tesoura, exemplo um lutador da um soco pela esquerda de um inimigo e o inimigo está defendendo do lado direito.
 

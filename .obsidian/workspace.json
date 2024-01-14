@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "658308a14e625e27",
+        "id": "54d1a391c742242e",
         "type": "tabs",
         "children": [
           {
-            "id": "5c2dab0f8f7aa4a3",
+            "id": "6a9ba7d9dd17138f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Classes/Magos.md",
-                "mode": "source",
-                "source": false
+                "file": "imagens/Pasted image 20231101161306 1.png"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Magos.md",
+                "file": "imagens/Pasted image 20231101161306 1.png",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Magos.md",
+                "file": "imagens/Pasted image 20231101161306 1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Magos.md"
+                "file": "imagens/Pasted image 20231101161306 1.png"
               }
             }
           }
@@ -155,53 +153,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c2dab0f8f7aa4a3",
+  "active": "bddf919c11e5dde5",
   "lastOpenFiles": [
-    "Classes/Guerreiros.md",
-    "Locais/Cachoeiras de Niskin.md",
-    "Lore.md",
-    "Tribo dos Guerreiros/Personagens/Sir Heriklen.md",
-    "Tribo dos Herbalistas/Estrutura/Locais.md",
-    "Tribo dos Herbalistas/Estrutura/Livros.md",
-    "Tribo dos Herbalistas/Personagens/Linthian.md",
-    "Tribo dos Herbalistas/Personagens/Kerethin.md",
-    "Tribo dos Herbalistas/Personagens/Lorethal.md",
-    "Tribo dos Herbalistas/Estrutura/Personagens.md",
-    "Classes/Magos.md",
-    "2023-11-01.md",
-    "Pasted image 20231101161306.png",
-    "Pasted image 20231101161243.png",
-    "Pasted image 20231101143947.png",
-    "Livros/Ervas/Efeitos na fumaça.md",
-    "Livros/Ervas/Ervas e suas propriedades.md",
-    "Livros/Ervas/Introdução a Carburação.md",
-    "Pasted image 20230322011718.png",
-    "Pasted image 20231101130208.png",
-    "Pasted image 20231101135210.png",
-    "Livros/Magias/Orbes e runas.md",
-    "Livros/Magias/Runas Básicas.md",
-    "Sistema.md",
-    "Bisklarit Mapa.jpg",
-    "Tribos/As 11 Tribos.md",
-    "Locais/Cachoeiras de Niskin.png",
-    "Classes",
-    "Vilas/Vila dos Guerreiros.md",
-    "Bisklarit.md",
-    "Tribo dos Guerreiros/Estrutura/Personagens.md",
-    "Tribo dos Guerreiros/Estrutura/Locais.md",
-    "Tribo dos Guerreiros/Estrutura/Instituições.md",
-    "Livros/Magias",
-    "Tribos/Herbalistas.md",
-    "Livros/Ervas",
-    "Livros",
-    "Tribos/Guerreiros.md",
-    "Tribo dos Guerreiros/Estrutura",
-    "Tribo dos Herbalistas/Estrutura/Untitled",
-    "Tribo dos Herbalistas/Estrutura",
-    "Tribo dos Herbalistas/Personagens",
-    "Tribo dos Herbalistas/Locais",
-    "Tribo dos Herbalistas",
-    "Untitled.canvas",
-    "New map.jpg"
+    "MYRpg/2024-01-14.md",
+    "Monges/Sistema.md",
+    "MYRpg/Monges/Sistema.md",
+    "MYRpg/Monges/Livros",
+    "MYRpg/Monges",
+    "MYRpg/imagens/Pasted image 20231101161306.png",
+    "MYRpg/imagens/Pasted image 20231101143947.png",
+    "MYRpg/imagens/Pasted image 20231101161243.png",
+    "MYRpg/imagens/Pasted image 20231101135210.png",
+    "MYRpg/imagens/Pasted image 20230322011718.png",
+    "MYRpg/imagens",
+    "MYRpg/Vilas/Vila dos Guerreiros.md",
+    "MYRpg/Vilas",
+    "MYRpg/Tribos/Guerreiros.md",
+    "MYRpg/Tribos/Herbalistas.md",
+    "MYRpg/Tribos/Governantes.md",
+    "MYRpg/Tribos/As 11 Tribos.md",
+    "MYRpg/Tribos",
+    "MYRpg/Tribo dos Herbalistas/Personagens/Lorethal.md",
+    "MYRpg/Tribo dos Herbalistas/Personagens/Linthian.md",
+    "MYRpg/Tribo dos Herbalistas/Personagens/Kerethin.md",
+    "MYRpg/Tribo dos Herbalistas/Estrutura/Personagens.md",
+    "MYRpg/Tribo dos Herbalistas/Estrutura/Locais.md",
+    "MYRpg/Tribo dos Herbalistas/Estrutura/Livros.md",
+    "MYRpg/Tribo dos Herbalistas/Locais/Torre de rituais.md",
+    "MYRpg/Tribo dos Herbalistas/Locais/Torre da cura.md",
+    "MYRpg/Tribo dos Herbalistas/Locais/Torre da confusão.md",
+    "MYRpg/Tribo dos Herbalistas/Personagens",
+    "MYRpg/Tribo dos Herbalistas/Estrutura",
+    "MYRpg/Tribo dos Herbalistas/Locais",
+    "MYRpg/Tribo dos Herbalistas",
+    "MYRpg/Tribo dos Guerreiros/Personagens/Sir Heriklen.md",
+    "MYRpg/Tribo dos Guerreiros/Estrutura/Personagens.md",
+    "MYRpg/Tribo dos Guerreiros/Instituições/Concelho da Guerra.md",
+    "MYRpg/Tribo dos Guerreiros/Estrutura/Locais.md",
+    "MYRpg/Tribo dos Guerreiros/Estrutura/Instituições.md",
+    "MYRpg/Tribo dos Guerreiros/Personagens",
+    "MYRpg/Sistema.md",
+    "MYRpg/Pasted image 20231101161306.png",
+    "MYRpg/Pasted image 20231101161243.png",
+    "MYRpg/Pasted image 20231101143947.png",
+    "MYRpg/Pasted image 20231101135210.png",
+    "MYRpg/Pasted image 20230322011718.png",
+    "MYRpg/Lore.md",
+    "MYRpg/Locais/Cachoeiras de Niskin.md",
+    "MYRpg/Livros/Magias/Runas Básicas.md",
+    "Untitled.canvas"
   ]
 }
