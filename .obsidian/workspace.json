@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "54d1a391c742242e",
+        "id": "7d0bd74ff5604ec6",
         "type": "tabs",
         "children": [
           {
-            "id": "6a9ba7d9dd17138f",
+            "id": "23c519a64771df0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livros/Monges/Formas e suas interações.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "731fe96098f5ecdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livros/Ervas/Efeitos na fumaça.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livros/Monges/Formas e suas interações.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livros/Monges/Formas e suas interações.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Livros/Monges/Formas e suas interações.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -167,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a9ba7d9dd17138f",
+  "active": "23c519a64771df0d",
   "lastOpenFiles": [
     "Livros/Ervas/Efeitos na fumaça.md",
     "Livros/Monges/Formas e suas interações.md",
