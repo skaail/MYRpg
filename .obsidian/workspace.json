@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7d0bd74ff5604ec6",
+        "id": "c56800fa362b0af9",
         "type": "tabs",
         "children": [
           {
-            "id": "23c519a64771df0d",
+            "id": "0cb0baec06e535e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Magos.md",
+                "file": "Jogadores/Rossi.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Magos.md",
+                "file": "Jogadores/Rossi.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Magos.md",
+                "file": "Jogadores/Rossi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Magos.md"
+                "file": "Jogadores/Rossi.md"
               }
             }
           }
@@ -155,12 +155,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23c519a64771df0d",
+  "active": "0cb0baec06e535e9",
   "lastOpenFiles": [
-    "Livros/Magias/Runas Básicas.md",
-    "Jogadores/Perez.md",
+    "Tribos/Narradores.md",
+    "Tribos/Herbalistas.md",
+    "Tribos/Guerreiros.md",
+    "imagens/Pasted image 20230322011718.png",
+    "imagens/Pasted image 20231101143947 1.png",
+    "imagens/Pasted image 20231101135210 1.png",
+    "imagens/Pasted image 20231101161243.png",
+    "imagens/Pasted image 20231101161306 1.png",
+    "imagens/Pasted image 20231101161243 1.png",
+    "imagens/Pasted image 20230322011718 1.png",
+    "Bisklarit.md",
+    "Lore.md",
+    "Sistema.md",
+    "Locais/Cachoeiras de Niskin.md",
+    "Locais/Cachoeiras de Niskin.png",
     "Jogadores/Rossi.md",
+    "Jogadores/Perez.md",
     "Jogadores/Adal.md",
+    "Classes/Magos.md",
+    "Livros/Magias/Runas Básicas.md",
     "Livros/Magias/Orbes e runas.md",
     "Jogadores",
     "Livros/Ervas/Efeitos na fumaça.md",
@@ -170,21 +186,12 @@
     "Livros/Monges",
     "Livros/Untitled.md",
     "Monges/Livros/Formas e interações.md",
-    "Bisklarit.md",
-    "imagens/Pasted image 20231101161243.png",
-    "imagens/Pasted image 20231101161306 1.png",
     "imagens/Pasted image 20231101161306.png",
-    "imagens/Pasted image 20231101161243 1.png",
-    "imagens/Pasted image 20231101143947 1.png",
     "imagens/Pasted image 20231101135210.png",
-    "imagens/Pasted image 20230322011718 1.png",
     "MYRpg/2024-01-14.md",
     "MYRpg/Monges/Sistema.md",
     "MYRpg/Monges/Livros",
     "MYRpg/Monges",
-    "MYRpg/imagens/Pasted image 20231101161306.png",
-    "MYRpg/imagens/Pasted image 20231101143947.png",
-    "MYRpg/imagens/Pasted image 20231101161243.png",
     "MYRpg/imagens",
     "MYRpg/Vilas/Vila dos Guerreiros.md",
     "MYRpg/Vilas",
@@ -193,13 +200,6 @@
     "MYRpg/Tribos/Governantes.md",
     "MYRpg/Tribos/As 11 Tribos.md",
     "MYRpg/Tribos",
-    "MYRpg/Tribo dos Herbalistas/Personagens/Lorethal.md",
-    "MYRpg/Tribo dos Herbalistas/Personagens/Linthian.md",
-    "MYRpg/Tribo dos Herbalistas/Personagens/Kerethin.md",
-    "MYRpg/Tribo dos Herbalistas/Estrutura/Personagens.md",
-    "MYRpg/Tribo dos Herbalistas/Estrutura/Locais.md",
-    "MYRpg/Tribo dos Herbalistas/Estrutura/Livros.md",
-    "MYRpg/Tribo dos Herbalistas/Locais/Torre de rituais.md",
     "MYRpg/Tribo dos Herbalistas/Personagens",
     "MYRpg/Tribo dos Herbalistas/Estrutura",
     "MYRpg/Tribo dos Herbalistas/Locais",
