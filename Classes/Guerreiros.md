@@ -17,14 +17,14 @@ Os turnos seguem uma linha temporal controlada por ticks onde cada posição e a
 
 Não existe uma ordem correta de ações e isto pode ser definido pela própria arte que a pessoas está masterizando, porém existem penalidades por realizar golpes sem estar na posição mais eficiente.
 
-![[Pasted image 20231101161306 1.png]]
+![[Pasted image 20231101161306.png]]
 
 
 ## Posição
 
 A posição que um personagem está durante a batalha é primordial para aumentar sua eficiência nos ataques e defesas. Uma carta de posição é composta de algumas informações, o nome da carta, um número que condiz com a velocidade dela e uma legenda que define partes do corpo expostas, partes do corpo protegidas, golpes com eficiência elevada e golpes com eficiência diminuída.
 
-![[Pasted image 20231101135210 1.png]]
+![[Pasted image 20231101135210.png]]
 
 Neste exemplo temos uma posição de base 2 que demora 2 ticks para estar pronta, quando pronta seu soco recebe +1 de vantagem porém seu chute recebe -1, o braço fica mais vulnerável e a perna fica mais resistente.
 
@@ -33,7 +33,7 @@ Neste exemplo temos uma posição de base 2 que demora 2 ticks para estar pronta
 
 Depois de escolher a posição do personagem o jogador deve jogar uma ação, esta ação pode ser uma defesa ou um ataque
 
-![[Pasted image 20231101143947 1.png]]
+![[Pasted image 20231101143947.png]]
 
 Este é um exemplo de um soco de demora 5 ticks e da 2 de dano + a diferença entre o valor do ataque e o valor da defesa dos personagens na ficha
 

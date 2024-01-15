@@ -70,6 +70,8 @@ Um nodo de fusão é responsável por comunicar formas entre si, criando facilit
 
 
 
+
+
 ## Ascenção
 
 A Ascenção é o nível mais alto que um monge não puro pode chegar, após chegar ao nível mais alto de todas as suas formas o jogador tem a opção de Ascender, isso faz com que ele perca todos os bônus de sua árvore atual e tenha que escolher entre suas formas uma principal, a partir deste momento ele é visto como um monge puro e todas suas formas se conectam com perfeição para montar o lutador mais completo que ele consegue ser.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jogadores/Rossi.md",
+                "file": "Classes/Guerreiros.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jogadores/Rossi.md",
+                "file": "Classes/Guerreiros.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jogadores/Rossi.md",
+                "file": "Classes/Guerreiros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jogadores/Rossi.md"
+                "file": "Classes/Guerreiros.md"
               }
             }
           }
@@ -157,24 +157,32 @@
   },
   "active": "0cb0baec06e535e9",
   "lastOpenFiles": [
+    "imagens/Pasted image 20231101161306.png",
+    "imagens/Pasted image 20231101161243.png",
+    "imagens/Pasted image 20231101143947.png",
+    "imagens/Pasted image 20231101135210.png",
+    "imagens/Pasted image 20230322011718.png",
+    "Sistema.md",
+    "Campanha/Cena 1.md",
+    "Jogadores/Adal.md",
+    "Campanha",
+    "Monges/Sistema.md",
+    "Artefatos Mágicos/Livro de Habilidades.md",
+    "Jogadores/Rossi.md",
+    "Artefatos Mágicos",
     "Tribos/Narradores.md",
     "Tribos/Herbalistas.md",
     "Tribos/Guerreiros.md",
-    "imagens/Pasted image 20230322011718.png",
     "imagens/Pasted image 20231101143947 1.png",
     "imagens/Pasted image 20231101135210 1.png",
-    "imagens/Pasted image 20231101161243.png",
     "imagens/Pasted image 20231101161306 1.png",
     "imagens/Pasted image 20231101161243 1.png",
     "imagens/Pasted image 20230322011718 1.png",
     "Bisklarit.md",
     "Lore.md",
-    "Sistema.md",
     "Locais/Cachoeiras de Niskin.md",
     "Locais/Cachoeiras de Niskin.png",
-    "Jogadores/Rossi.md",
     "Jogadores/Perez.md",
-    "Jogadores/Adal.md",
     "Classes/Magos.md",
     "Livros/Magias/Runas Básicas.md",
     "Livros/Magias/Orbes e runas.md",
@@ -182,12 +190,9 @@
     "Livros/Ervas/Efeitos na fumaça.md",
     "Livros/Monges/Formas e suas interações.md",
     "Livros/Ervas/Introdução a Carburação.md",
-    "Monges/Sistema.md",
     "Livros/Monges",
     "Livros/Untitled.md",
     "Monges/Livros/Formas e interações.md",
-    "imagens/Pasted image 20231101161306.png",
-    "imagens/Pasted image 20231101135210.png",
     "MYRpg/2024-01-14.md",
     "MYRpg/Monges/Sistema.md",
     "MYRpg/Monges/Livros",
@@ -196,13 +201,8 @@
     "MYRpg/Vilas/Vila dos Guerreiros.md",
     "MYRpg/Vilas",
     "MYRpg/Tribos/Guerreiros.md",
-    "MYRpg/Tribos/Herbalistas.md",
-    "MYRpg/Tribos/Governantes.md",
-    "MYRpg/Tribos/As 11 Tribos.md",
     "MYRpg/Tribos",
     "MYRpg/Tribo dos Herbalistas/Personagens",
-    "MYRpg/Tribo dos Herbalistas/Estrutura",
-    "MYRpg/Tribo dos Herbalistas/Locais",
     "Untitled.canvas"
   ]
 }
